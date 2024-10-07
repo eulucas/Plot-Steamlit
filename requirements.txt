@@ -1,0 +1,6 @@
+streamlit==1.22.0
+fastapi==0.95.2
+uvicorn==0.22.0
+yfinance==0.2.18
+pandas==1.5.3
+plotly==5.14.1
